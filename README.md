@@ -10,7 +10,7 @@
 - 💬 Ask me about **physics and python and that's it for now** 😅
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/gregoryfiel">
 <img loading="lazy" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoryfiel&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="100em" src="https://github-readme-stats.vercel.app/api?username=gregoryfiel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
