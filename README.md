@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working as **an intern in data engineering at Ilegra.**
 
-- 🌱 I’m currently learning **AWS and other things**
+- 🌱 I’m currently learning **DevOps and cloud basics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gregoryfiel](https://github.com/gregoryfiel)
 
-- 💬 Ask me about **python and that's it for now**
+- 💬 Ask me about **physics and python and that's it for now  😅 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
