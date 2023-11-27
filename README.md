@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gregory</h1>
 <h3 align="center">A data engineer and astrophysics student scraping for every piece of data that I find.</h3>
 
+- 📚 I'm a student of astrophysics at UFRGS and information systems at ESAB in Brazil.
+
 - 🔭 I’m currently working as **an intern in data engineering at Ilegra.**
 
 - 🌱 I’m currently learning **DevOps and cloud basics**
